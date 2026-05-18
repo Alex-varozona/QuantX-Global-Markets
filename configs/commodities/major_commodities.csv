@@ -1,0 +1,5 @@
+symbol,name,type
+GC=F,Gold,Metal
+SI=F,Silver,Metal
+CL=F,Crude Oil,Energy
+NG=F,Natural Gas,Energy

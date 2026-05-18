@@ -1,0 +1,11 @@
+country,indicator,source,frequency
+USA,GDP,FRED,Quarterly
+China,GDP,WorldBank,Quarterly
+India,GDP,WorldBank,Quarterly
+Japan,GDP,FRED,Quarterly
+Germany,GDP,WorldBank,Quarterly
+UK,GDP,FRED,Quarterly
+France,GDP,WorldBank,Quarterly
+Brazil,GDP,WorldBank,Quarterly
+Canada,GDP,FRED,Quarterly
+South Korea,GDP,WorldBank,Quarterly

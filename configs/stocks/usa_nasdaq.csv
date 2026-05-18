@@ -1,0 +1,8 @@
+symbol,company,exchange,country,currency,sector
+AAPL,Apple,NASDAQ,USA,USD,Technology
+MSFT,Microsoft,NASDAQ,USA,USD,Technology
+NVDA,NVIDIA,NASDAQ,USA,USD,Semiconductors
+GOOGL,Alphabet,NASDAQ,USA,USD,Technology
+AMZN,Amazon,NASDAQ,USA,USD,E-Commerce
+META,Meta,NASDAQ,USA,USD,Technology
+TSLA,Tesla,NASDAQ,USA,USD,Automotive
