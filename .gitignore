@@ -1,1 +1,10 @@
-Nothing needs to be added to .gitignore for this change list. The only file added is `create_dirs.sh`, which appears to be a shell script source file and should not be ignored.
+```
+# Configuration files for various asset types
+configs/commodities/
+configs/crypto/
+configs/etfs/
+configs/forex/
+configs/indices/
+configs/macro/
+configs/stocks/
+```
